@@ -90,5 +90,9 @@
     "main kled": {
         "tooltip": "main kled",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/main%20kled.png"
+    },
+    "mason67": {
+        "tooltip": "mason67 lil bro",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/mason67.png"
     }
 }
