@@ -94,5 +94,9 @@
     "mason67": {
         "tooltip": "mason67 lil bro",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/mason67.png"
+    },
+    "683": {
+        "tooltip": "683 member",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/683.png"
     }
 }
