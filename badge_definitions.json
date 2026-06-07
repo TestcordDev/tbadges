@@ -98,5 +98,9 @@
     "683": {
         "tooltip": "683 member",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/683.png"
+    },
+    "bro30": {
+        "tooltip": "bro is NOT gettin 30 badges",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/bro30.png"
     }
 }
