@@ -345,6 +345,10 @@
         "2": {
             "tooltip": "rich larp",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larpin.png"
+        },
+        "3": {
+            "tooltip": "professional gambler",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/gamble.png"
         }
     },
     "1400610916285812776": {
