@@ -106,5 +106,9 @@
     "ajew": {
         "tooltip": "jew",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/ajew.png"
+    },
+    "larpin": {
+        "tooltip": "rich larp",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larpin.png"
     }
 }
