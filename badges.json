@@ -391,14 +391,10 @@
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/bro30.png"
         },
         "1": {
-            "tooltip": "rich larp",
-            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larpin.png"
-        },
-        "2": {
             "tooltip": "professional gambler",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/gamble.png"
         },
-        "3": {
+        "2": {
             "tooltip": "worst person oat, not even worth your time.",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/zack.png"
         }
