@@ -387,14 +387,10 @@
     },
     "1499523183794061563": {
         "0": {
-            "tooltip": "bro is NOT gettin 30 badges",
-            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/bro30.png"
-        },
-        "1": {
             "tooltip": "professional gambler",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/gamble.png"
         },
-        "2": {
+        "1": {
             "tooltip": "worst person oat, not even worth your time.",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/zack.png"
         }
