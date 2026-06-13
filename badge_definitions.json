@@ -122,5 +122,9 @@
     "larp2": {
         "tooltip": "pro larp very rich",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larp2.png"
+    },
+    "zack": {
+        "tooltip": "worst person oat, not even worth your time.",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/zack.png"
     }
 }
