@@ -134,5 +134,9 @@
     "meowl": {
         "tooltip": ":3",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/meowl.png"
+    },
+    "ME0WL": {
+        "tooltip": "1",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/ME0WL.png"
     }
 }
