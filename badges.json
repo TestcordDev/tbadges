@@ -401,6 +401,10 @@
         "0": {
             "tooltip": ":3",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/meowl.png"
+        },
+        "1": {
+            "tooltip": "1",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/ME0WL.png"
         }
     }
 }
