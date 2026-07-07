@@ -383,6 +383,10 @@
         "2": {
             "tooltip": "cool people :3 (badge only given to people i personally approve)",
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/coolpeople.png"
+        },
+        "3": {
+            "tooltip": "rich larp",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larpin.png"
         }
     },
     "1467557175206613155": {
