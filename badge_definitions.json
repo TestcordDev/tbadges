@@ -142,5 +142,9 @@
     "xim": {
         "tooltip": "cute",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/xim.png"
+    },
+    "braindead": {
+        "tooltip": "silly catgirl",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/braindead.png"
     }
 }
