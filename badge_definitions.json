@@ -146,5 +146,9 @@
     "braindead": {
         "tooltip": "silly catgirl",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/braindead.png"
+    },
+    "zai": {
+        "tooltip": "z.ai lover",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/zai.png"
     }
 }
