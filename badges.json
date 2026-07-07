@@ -401,6 +401,10 @@
         "3": {
             "tooltip": "rich larp",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larpin.png"
+        },
+        "4": {
+            "tooltip": "pro larp very rich",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larp2.png"
         }
     }
 }
