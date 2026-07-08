@@ -419,6 +419,10 @@
         "0": {
             "tooltip": "1",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/blasphemy.png"
+        },
+        "1": {
+            "tooltip": "lord",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/lord.png"
         }
     }
 }
