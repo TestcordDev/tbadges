@@ -158,5 +158,9 @@
     "lord": {
         "tooltip": "lord",
         "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/lord.png"
+    },
+    "blasphemyy": {
+        "tooltip": "blasphemy",
+        "badge_url": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/blasphemyy.png"
     }
 }
