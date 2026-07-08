@@ -414,5 +414,11 @@
             "tooltip": "pro larp very rich",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/larp2.png"
         }
+    },
+    "325375089174380551": {
+        "0": {
+            "tooltip": "1",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/blasphemy.png"
+        }
     }
 }
