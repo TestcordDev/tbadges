@@ -424,5 +424,11 @@
             "tooltip": "blasphemy",
             "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/blasphemyy.png"
         }
+    },
+    "275104853007794178": {
+        "0": {
+            "tooltip": "Security",
+            "badge": "https://raw.githubusercontent.com/TestcordDev/tbadges/main/Security.png"
+        }
     }
 }
